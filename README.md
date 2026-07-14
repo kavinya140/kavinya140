@@ -1,95 +1,191 @@
+<div align="center">
+
 # Hi 👋, I'm Kavinya Karthikeyan
 
-### Computer Science and Business Systems Undergraduate | Aspiring Software Developer
+### 🚀 Computer Science & Business Systems Undergraduate | Software Developer | AI Enthusiast
 
-🎓 B.Tech - Computer Science and Business Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;AI+%26+Blockchain+Enthusiast;Web+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 B.Tech Computer Science and Business Systems Student
+
+🏫 V.S.B Engineering College
+
 📍 Dindigul, Tamil Nadu, India
 
----
+🎯 Current CGPA **9.57**
 
-## 👨‍💻 About Me
+💡 Passionate about
 
-- 🎓 B.Tech CSBS student at V.S.B Engineering College
-- 📈 Current CGPA: **9.62**
-- 🌱 Currently learning **Java, Python, SQL, React, AI and Blockchain**
-- 💻 Interested in Software Development, AI, Web Development and Data Visualization
-- 🚀 Always eager to build projects and learn new technologies
-- 📫 Reach me at **kavinyakarthi140@gmail.com**
+- Software Development
+- Artificial Intelligence
+- Blockchain
+- Web Development
+- Data Visualization
 
----
+🌱 Currently Learning
 
-## 🛠️ Tech Stack
-
-### Languages
 - Java
+- React
 - Python
 - SQL
-- HTML
-- CSS
+- AI
+- Data Structures & Algorithms
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- Power BI
-- Excel
+📫 Email
+
+**kavinyakarthi140@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+# 🌐 Connect With Me
 
-### 🔗 Blockchain Skill Credential System
-A blockchain-based credential verification platform that securely stores and validates academic certificates with a tamper-proof verification process.
+<p align="center">
 
-### 🌍 Climate Scope
-A data visualization project that analyzes climate-related datasets and presents meaningful environmental insights.
+<a href="https://linkedin.com/in/kavinya-karthikeyan">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
 
-### 🛒 Supermarket Billing System
-A billing application that manages products, calculates totals, and generates invoices efficiently.
+<a href="https://github.com/kavinya140">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
 
----
+<a href="https://leetcode.com/kavinya-karthi/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+</a>
 
-## 💼 Internship Experience
+<a href="https://kavinya140.github.io/Kavinya-Karthikeyan-Portfolio/">
+<img src="https://img.icons8.com/color/96/domain.png" height="55"/>
+</a>
 
-- 💻 NLC India Limited – Web Application Intern
-- 📊 Infosys Virtual Internship – Data Visualization
-
----
-
-## 🏆 Certifications
-
-- Java Programming (NPTEL)
-- Fundamentals of Java Programming (Coursera)
-- Introduction to IoT and Digital Transformation (Cisco)
-- Data Analytics using Power BI (Infosys)
-- Java Foundation Certification (Infosys)
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Tech Stack
 
-- 💼 LinkedIn: https://linkedin.com/in/kavinya-karthikeyan
-- 🌍 Portfolio: (Add your portfolio link)
-- 💻 GitHub: https://github.com/kavinya140
-- 🧩 LeetCode: https://leetcode.com/kavinya-karthi/
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,eclipse" />
 
-## 📊 GitHub Stats
-
-![Kavinya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinya140&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kavinya140&theme=tokyonight)
+## 🔗 Blockchain Skill Credential System
+
+✔ Blockchain based credential verification
+
+✔ Secure Certificate Validation
+
+✔ Smart Contract Based Authentication
 
 ---
 
-### 💡 Quote
+## 🌍 Climate Scope
 
-> "Dream, Dream, Dream. Dreams transform into thoughts and thoughts result in action." — Dr. A. P. J. Abdul Kalam
+✔ Climate Data Visualization
+
+✔ Interactive Dashboard
+
+✔ Environmental Insights
+
+---
+
+## 🛒 Supermarket Billing System
+
+✔ Product Management
+
+✔ Invoice Generation
+
+✔ Billing Automation
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinya140&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kavinya140&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavinya140&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=kavinya140&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+> Create this using GitHub Actions (instructions below).
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kavinya140/kavinya140/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📚 Certifications
+
+🏅 NPTEL Java Programming
+
+🏅 Cisco IoT & Digital Transformation
+
+🏅 Coursera Java Fundamentals
+
+🏅 Infosys Data Analytics using Power BI
+
+🏅 Infosys Java Foundation
+
+---
+
+# 💡 Quote
+
+> **"Dream, Dream, Dream. Dreams transform into thoughts and thoughts result in action."**  
+> — Dr. A.P.J. Abdul Kalam
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
