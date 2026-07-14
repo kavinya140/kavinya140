@@ -115,9 +115,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinya140&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavinya140&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -137,7 +137,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kavinya140&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kavinya140&theme=onedark&no-frame=true&margin-w=15"/>
 
 </p>
 
