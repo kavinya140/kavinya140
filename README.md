@@ -133,13 +133,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinya140&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</p>
----
-
 # 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=kavinya140&theme=tokyo-night)
