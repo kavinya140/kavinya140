@@ -52,12 +52,15 @@
 <a href="https://linkedin.com/in/kavinya-karthikeyan">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+<a href="https://www.linkedin.com/in/kavinyakarthikeyan/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
 
 <a href="https://github.com/kavinya140">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://leetcode.com/kavinya-karthi/">
+<a href="https://leetcode.com/u/kavinya_karthi/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
 </a>
 
