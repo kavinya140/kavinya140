@@ -84,6 +84,16 @@
 
 # 🚀 Featured Projects
 
+## 🤖 Employee Feedback AI Agent
+
+✔ Analyse employee feedback and generate report based on employee feedback.
+
+✔ Implemented semantic search
+
+✔ Real-time feedback analysis.
+
+---
+
 ## 🔗 Blockchain Skill Credential System
 
 ✔ Blockchain based credential verification
@@ -91,16 +101,6 @@
 ✔ Secure Certificate Validation
 
 ✔ Smart Contract Based Authentication
-
----
-
-## 🌍 Climate Scope
-
-✔ Climate Data Visualization
-
-✔ Interactive Dashboard
-
-✔ Environmental Insights
 
 ---
 
