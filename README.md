@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Kavinya Banner">
+  <img src="https://raw.githubusercontent.com/kavinya140/kavinya140/main/assets/Banner.png" alt="Kavinya Banner" width="100%">
 </p>
 
 <div align="center">
-
-# Hi 👋, I'm Kavinya Karthikeyan
 
 ### 🚀 Computer Science & Business Systems Undergraduate | Software Developer | AI Enthusiast
 
