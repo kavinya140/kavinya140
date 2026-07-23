@@ -3,9 +3,6 @@
 </p>
 
 <div align="center">
-
-### 🚀 Computer Science & Business Systems Undergraduate | Software Developer | AI Enthusiast
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;AI+%26+Blockchain+Enthusiast;Web+Developer;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=kavinya140&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
