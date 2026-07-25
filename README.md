@@ -76,6 +76,7 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,eclipse" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
 
 </p>
 
