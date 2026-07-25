@@ -47,10 +47,6 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/kavinya-karthikeyan">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
 <a href="https://www.linkedin.com/in/kavinyakarthikeyan/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
