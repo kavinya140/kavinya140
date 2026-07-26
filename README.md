@@ -19,7 +19,7 @@
 
 📍 Dindigul, Tamil Nadu, India
 
-🎯 Current CGPA **9.57**
+🎯 Current CGPA **9.56**
 
 💡 Passionate about
 
