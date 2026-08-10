@@ -110,16 +110,6 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true"
-    alt="Kavinya's GitHub Statistics"
-  />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
