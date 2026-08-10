@@ -113,11 +113,10 @@
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavinya140&layout=compact&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Kavinya's GitHub Stats"
+  />
 </p>
 
 ---
