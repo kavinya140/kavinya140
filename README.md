@@ -114,8 +114,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Kavinya's GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=kavinya140&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Kavinya's GitHub Statistics"
   />
 </p>
 
