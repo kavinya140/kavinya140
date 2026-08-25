@@ -123,7 +123,8 @@
 
 # 📊 Contribution Graph
 
-[![Kavinya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavinya140)](https://github.com/kavinya140)
+
+![GitHub Contribution Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinya140&theme=tokyonight)
 
 ---
 
