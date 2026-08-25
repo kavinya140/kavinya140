@@ -90,13 +90,13 @@
 
 ---
 
-## 🔗 Blockchain Skill Credential System
+## 💰🤖 AI FinTech Expense Tracker
 
-✔ Blockchain based credential verification
+✔ Developed an AI-platform to track Personal Expenses, Budegets,etc.
 
-✔ Secure Certificate Validation
+✔ Secure user data hrough token-based authentication.
 
-✔ Smart Contract Based Authentication
+✔ Generate Financial health insights, visual analytics and dhashboards.
 
 ---
 
