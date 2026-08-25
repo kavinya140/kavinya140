@@ -121,9 +121,9 @@
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavinya140&theme=github-compact)
+[![Kavinya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavinya140)](https://github.com/kavinya140)
 
 ---
 
